@@ -35,7 +35,7 @@ nb_dim = 128
 nb_pos = 0
 nb_dep = 0
 nb_par = 0
-path = "./data1/fz_charws_label_5894.txt"
+path = "./data1/demo_data.txt"
 w2vPath = "./data1/char2vec_128.bin"
 
 
