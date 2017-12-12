@@ -1,0 +1,10 @@
+你 好	(label1)
+你 好 啊	(label1)
+hello	(label1)集外
+hi	(label1)
+你 在 吗	(label1)
+你 是 谁	(label2)
+你 叫 什 么 名 字	(label2)
+你 的 名 字 叫 什 么	(label2)
+你 叫 啥	(label2)
+你 怎 么 称 呼	(label2)
